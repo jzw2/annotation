@@ -15,6 +15,7 @@ module.exports = {
         path: `${__dirname}/blog`,
       }
     },
+"gatsby-plugin-react-helmet",
     "gatsby-plugin-mdx",
   ],
 };

@@ -16,13 +16,16 @@
   },
   "dependencies": {
     "@mdx-js/react": "^2.3.0",
+    "file-reader": "^1.1.1",
     "gatsby": "^5.13.3",
     "gatsby-plugin-image": "^3.13.1",
     "gatsby-plugin-mdx": "^5.13.1",
+    "gatsby-plugin-react-helmet": "^6.13.1",
     "gatsby-plugin-sharp": "^5.13.1",
     "gatsby-source-filesystem": "^5.13.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.11"
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
